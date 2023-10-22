@@ -1,0 +1,12 @@
+{
+    "name": "root/a",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "authors": [
+        {
+            "name": "Alan Benedict"
+        }
+    ]
+}
